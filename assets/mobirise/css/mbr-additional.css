@@ -1284,7 +1284,7 @@ section.lazy-placeholder:after {
 .cid-s3NcOWHjFJ {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #d9f8f6;
 }
 .cid-s3NcOWHjFJ .mbr-section-subtitle {
   color: #767676;
@@ -1321,10 +1321,13 @@ section.lazy-placeholder:after {
 .cid-s3NcOWHjFJ .team-item .item-caption {
   background: #efefef;
 }
+.cid-s3NcOWHjFJ H2 {
+  color: #223322;
+}
 .cid-s3Nejp5mWh {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #223322;
 }
 .cid-s3Nejp5mWh .mbr-section-subtitle {
   color: #767676;
@@ -1395,6 +1398,47 @@ section.lazy-placeholder:after {
   .cid-s4fmr1Smxg .iconfont-wrapper {
     display: none;
   }
+}
+.cid-s4jW5Rgp3X {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #223322;
+}
+.cid-s4jW5Rgp3X .title {
+  padding-bottom: 2.5rem;
+}
+.cid-s4jW5Rgp3X .mbr-text {
+  color: #767676;
+  margin: 0;
+  padding-top: 0.5rem;
+}
+.cid-s4jW5Rgp3X .iconfont-wrapper {
+  display: flex;
+  align-items: center;
+  width: 2rem;
+  height: 2rem;
+  margin-right: 2rem;
+}
+.cid-s4jW5Rgp3X .iconfont-wrapper .amp-iconfont {
+  font-size: 2rem;
+}
+.cid-s4jW5Rgp3X .wrapper {
+  display: flex;
+  padding: 1rem 0;
+}
+.cid-s4jW5Rgp3X .wrapper .b-info {
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .cid-s4jW5Rgp3X .iconfont-wrapper {
+    display: none;
+  }
+}
+.cid-s4jW5Rgp3X H2 {
+  color: #d9f8f6;
+}
+.cid-s4jW5Rgp3X H5 {
+  color: #d9f8f6;
 }
 .cid-s4fojuS8Wm {
   padding-top: 90px;
